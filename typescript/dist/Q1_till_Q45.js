@@ -300,3 +300,4 @@ class Cars {
 }
 const c = new Cars('aaa', 'xx');
 console.log(c.getDetails());
+let myName = "MAEYDAH MASROOR";
